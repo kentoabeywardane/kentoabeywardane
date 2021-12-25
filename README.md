@@ -12,7 +12,7 @@ I hope to start working on MD simulations to investigate diffusiophoresis of pro
     - **CC**: MOLPRO and ORCA
   - **Molecular Dynamics** (openMM)
 
-- 📫 How to reach me **kentoabeywardane@gmail.com**
+- 📫 Reach me at: **kentoabeywardane@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
