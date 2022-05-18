@@ -25,10 +25,8 @@ I am also working on MD simulations to investigate diffusiophoresis of proteins 
 ### Here are some projects that I've worked on:
 
 <p align="center">
-  <a href="https://github.com/kentoabeywardane/H2O2-combustion-reactors"> 
-    <img alt="2D Flow Through Reactor with Catalytic Chemistry" src="https://github.com/kentoabeywardane/H2O2-combustion-reactors/blob/main/2D_flow_diagram.svg" width=50% height=50%/> 
-    <p align="center">2D Flow Through Reactor with Catalytic Chemistry</p>
-  </a>
+  <img align="center" alt="Protein Diffusiophoresis" src="https://github.com/kentoabeywardane/Protein-Diffusiophoresis/blob/main/readme_figures/BFP_in_box.png" width=40% height=40%>
+  <p align="center">Protein Diffusiophoresis with Molecular Dynamics</p>
 </p>
 
 # 
@@ -37,6 +35,15 @@ I am also working on MD simulations to investigate diffusiophoresis of proteins 
   <a href="https://devpost.com/software/dl-on-the-dl?ref_content=my-projects-tab&ref_feature=my_projects"> 
     <img align="center" alt="Generation of Diverse Image Data Using Style Transfer (Deep Learning) to Debias Melanoma Classification Models" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/928/566/datas/gallery.jpg" width=40% height=40%>
     <p align="center">Generation of Diverse Image Data Using Style Transfer (Deep Learning) to Debias Melanoma Classification Models</p>
+  </a>
+</p>
+
+# 
+
+<p align="center">
+  <a href="https://github.com/kentoabeywardane/H2O2-combustion-reactors"> 
+    <img alt="2D Flow Through Reactor with Catalytic Chemistry" src="https://github.com/kentoabeywardane/H2O2-combustion-reactors/blob/main/2D_flow_diagram.svg" width=50% height=50%/> 
+    <p align="center">2D Flow Through Reactor with Catalytic Chemistry</p>
   </a>
 </p>
 
