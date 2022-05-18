@@ -34,6 +34,15 @@ I hope to start working on MD simulations to investigate diffusiophoresis of pro
 # 
 
 <p align="center">
+  <a href="https://devpost.com/software/dl-on-the-dl?ref_content=my-projects-tab&ref_feature=my_projects"> 
+    <img align="center" alt="Generation of Diverse Image Data Using Style Transfer (Deep Learning) to Debias Melanoma Classification Models" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/928/566/datas/gallery.jpg" width=40% height=40%>
+    <p align="center">Generation of Diverse Image Data Using Style Transfer (Deep Learning) to Debias Melanoma Classification Models</p>
+  </a>
+</p>
+
+# 
+
+<p align="center">
   <a href="https://github.com/kentoabeywardane/COVID19-In-Host-Viral-Load-Modeling"> 
     <img align="center" alt="COVID-19: Modeling In-Host Viral and Innate Immune System Dynamics" src="https://github.com/kentoabeywardane/COVID19-In-Host-Viral-Load-Modeling/blob/main/CompartmentalModelGraphic.svg" width=40% height=40%>
     <p align="center">COVID-19: Modeling In-Host Viral and Innate Immune System Dynamics</p>
