@@ -3,7 +3,7 @@
 
 <h6 align="center">My current research interests are atomistic calculations of PFAS residuals and molecular dynamic simulations of proteins in non-equilibrium environments.
 I am working on DFT and CC quantum mechanical modeling of PFAS for error quantification of functionals and PFAS degradation kinetics.
-I am also working on MD simulations to investigate diffusiophoresis of proteins and how that may impact transport, stability, and function. </h6>
+I am also working on MD simulations to investigate diffusiophoresis of proteins and how that may impact transport, stability, and function. I plan to begin working on indpendent projects that focus on utilizing deep learning for drug design applications.</h6>
 
 - 🌱 I’m currently learning:
   - **Deep Learning**
