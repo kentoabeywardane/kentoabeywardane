@@ -32,8 +32,11 @@ I am also working on MD simulations to investigate diffusiophoresis of proteins 
 # 
 
 <p align="center">
-  <a href="https://devpost.com/software/dl-on-the-dl?ref_content=my-projects-tab&ref_feature=my_projects"> 
-    <img align="center" alt="Generation of Diverse Image Data Using Style Transfer (Deep Learning) to Debias Melanoma Classification Models" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/928/566/datas/gallery.jpg" width=40% height=40%>
+  <a href="https://github.com/AlexKaiLe/Melanoma-Skin-Tones"> 
+    <img align="center" alt="Style transfer model" 
+         src="https://github.com/AlexKaiLe/Melanoma-Skin-Tones/blob/main/figures/fig_2.png" width=40% height=40%>
+    <img align="center" alt="Generated image results"
+         src="https://github.com/AlexKaiLe/Melanoma-Skin-Tones/blob/main/figures/fig_4.png" width=40% height=40%>
     <p align="center">Generation of Diverse Image Data Using Style Transfer (Deep Learning) to Debias Melanoma Classification Models</p>
   </a>
 </p>
