@@ -25,6 +25,13 @@ I am also working on MD simulations to investigate diffusiophoresis of proteins 
 ### Here are some projects that I've worked on:
 
 <p align="center">
+  <img align="center" alt="Automated CBH Scheme" src="https://github.com/kentoabeywardane/autoCBH/blob/main/CBHscheme_ex.png" width=40% height=40%>
+  <p align="center">Automated Connectivity-Based Hierarchy (CBH) Schema Generation and ∆Hf Calculation</p>
+</p>
+
+# 
+
+<p align="center">
   <img align="center" alt="Protein Diffusiophoresis" src="https://github.com/kentoabeywardane/Protein-Diffusiophoresis/blob/main/readme_figures/BFP_in_box.png" width=40% height=40%>
   <p align="center">Protein Diffusiophoresis with Molecular Dynamics</p>
 </p>
@@ -71,18 +78,17 @@ I am also working on MD simulations to investigate diffusiophoresis of proteins 
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.cantera.org/" target="_blank" rel="noreferrer"> <img src="https://numfocus.org/wp-content/uploads/2018/02/cantera-logo-300x300.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.comsol.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/ytc/AKedOLQmcwUsCd3U1MGQnRyt9Cct5a873b5RicYwlGf2Jg=s900-c-k-c0x00ffffff-no-rj" alt="comsol" width="40" height="40"/> </a>
 <a href="https://www.gaussian.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/984801900292784129/TuHbpUEd_400x400.jpg" alt="matlab" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://www.molpro.net/" target="_blank" rel="noreferrer"> <img src="https://l3software.com.br/wp-content/uploads/2018/05/Molpro-Quantum.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://www.openmm.org/" target="_blank" rel="noreferrer"> <img src="https://simtk.org/logos/openmm?dummy_value=899794" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.openmm.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Openmm-logo.svg/1920px-Openmm-logo.svg.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://https://en.wikipedia.org/wiki/ORCA_(quantum_chemistry_program)/" target="_blank" rel="noreferrer"> <img src="https://www.orcasoftware.de/tutorials_orca/_images/ORCA_logo.png" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.rdkit.org" target="_blank" rel="noreferrer"> <img src="https://www.rdkit.org/Images/logo.png" alt="python" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></p>
+
