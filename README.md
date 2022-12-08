@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Kento Abeywardane</h1>
-<h3 align="center">A 5th Year Master's student in Data-Enabled Computational Engineering and Sciences (DECES) at Brown University with an interest in using numerical tools to solve environmental and biomedical problems!</h3>
+<h3 align="center">A 5th Year Master's student in Data-Enabled Computational Engineering and Sciences (DECES) at Brown University with an interest in using numerical tools to solve environmental and biomolecular problems!</h3>
 
 <h6 align="center">My current research interests are atomistic calculations of PFAS residuals and molecular dynamic simulations of proteins in non-equilibrium environments.
 I am working on DFT and CC quantum mechanical modeling of PFAS for error quantification of functionals and PFAS degradation kinetics.
