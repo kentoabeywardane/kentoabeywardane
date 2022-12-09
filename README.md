@@ -25,14 +25,14 @@ I am also working on MD simulations to investigate diffusiophoresis of proteins 
 ### Here are some projects that I've worked on:
 
 <p align="center">
-  <img align="center" alt="Automated CBH Scheme" src="https://github.com/kentoabeywardane/autoCBH/blob/main/CBHscheme_ex.png" width=40% height=40%>
+  <img align="center" alt="Automated CBH Scheme" src="https://github.com/kentoabeywardane/kentoabeywardane/blob/main/figures/CBHscheme_ex.png" width=40% height=40%>
   <p align="center">Automated Connectivity-Based Hierarchy (CBH) Schema Generation and ∆Hf Calculation</p>
 </p>
 
 # 
 
 <p align="center">
-  <img align="center" alt="Protein Diffusiophoresis" src="https://github.com/kentoabeywardane/Protein-Diffusiophoresis/blob/main/readme_figures/BFP_in_box.png" width=40% height=40%>
+  <img align="center" alt="Protein Diffusiophoresis" src="https://github.com/kentoabeywardane/kentoabeywardane/blob/main/figures/BFP_in_box.png" width=40% height=40%>
   <p align="center">Protein Diffusiophoresis with Molecular Dynamics</p>
 </p>
 
