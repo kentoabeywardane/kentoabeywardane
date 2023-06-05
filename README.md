@@ -32,7 +32,7 @@ I also worked on non-equillibrium MD simulations to investigate diffusiophoresis
 
 <p align="center">
   <img align="center" alt="SBINN" src="https://github.com/kentoabeywardane/kentoabeywardane/blob/main/figures/Ii_predictions.png" width=60% height=60%>
-  <p align="center">Using Physics-Informed Neural Networks (PINNs) to predict parameters of a Glucose-Insulin interaction ODE model (SBINNs)</p>
+  <p align="center">Physics-Informed Neural Networks (PINNs) to predict parameters of a Glucose-Insulin interaction ODE model (SBINNs)</p>
 </p>
 
 # 
