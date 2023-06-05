@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi, I'm Kento Abeywardane</h1>
-<h3 align="center">A 5th Year Master's student in Data-Enabled Computational Engineering and Sciences (DECES) at Brown University with an interest in using numerical tools to solve environmental and biomolecular problems!</h3>
+<h3 align="center">I'm an incoming Chemical Engineering and Computing PhD student at MIT with an interest in using numerical tools to solve molecular-level problems for drug discovery!</h3>
 
-<h6 align="center">My current research interests are atomistic calculations of PFAS residuals and molecular dynamic simulations of proteins in non-equilibrium environments.
-I am working on DFT and CC quantum mechanical modeling of PFAS for error quantification of functionals and PFAS degradation kinetics.
-I am also working on MD simulations to investigate diffusiophoresis of proteins and how that may impact transport, stability, and function. I plan to begin working on indpendent projects that focus on utilizing deep learning for drug design applications.</h6>
+<h6 align="justify"> I graduated with a Master's in Data-Enabled Computational Engineering and Sciences (DECES) and a Bachelor's in Chemical Engineering at Brown University. My master's thesis was a culmination of my undergraduate DFT and coupled cluster work with PFOA and GenX compounds where I developed a package ($\texttt{autoCBH}$) that automatically computes accurate heats of formation for large molecules by utilizing the error-cancelling connectivity-based hierarchy (CBH) method.
+I also worked on non-equillibrium MD simulations to investigate diffusiophoresis of proteins and how that may impact transport, stability, and function. I plan to begin working on indpendent projects that focus on utilizing deep learning for drug design applications.</h6>
 
 - 🌱 I’m currently learning:
   - **Deep Learning**
@@ -26,7 +25,14 @@ I am also working on MD simulations to investigate diffusiophoresis of proteins 
 
 <p align="center">
   <img align="center" alt="Automated CBH Scheme" src="https://github.com/kentoabeywardane/kentoabeywardane/blob/main/figures/CBHscheme_ex.png" width=40% height=40%>
-  <p align="center">Automated Connectivity-Based Hierarchy (CBH) Schema Generation and ∆Hf Calculation</p>
+  <p align="center">$\texttt{autoCBH}$: Automated Connectivity-Based Hierarchy (CBH) Schema Generation and ∆Hf Calculation</p>
+</p>
+
+# 
+
+<p align="center">
+  <img align="center" alt="SBINN" src="https://github.com/kentoabeywardane/kentoabeywardane/blob/main/figures/Ii_predictions.png" width=60% height=60%>
+  <p align="center">Using Physics-Informed Neural Networks (PINNs) to predict parameters of a Glucose-Insulin interaction ODE model (SBINNs)</p>
 </p>
 
 # 
