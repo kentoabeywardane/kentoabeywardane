@@ -24,8 +24,10 @@ I also worked on non-equillibrium MD simulations to investigate diffusiophoresis
 ### Here are some projects that I've worked on:
 
 <p align="center">
-  <img align="center" alt="Automated CBH Scheme" src="https://github.com/kentoabeywardane/kentoabeywardane/blob/main/figures/CBHscheme_ex.png" width=40% height=40%>
-  <p align="center">$\texttt{autoCBH}$: Automated Connectivity-Based Hierarchy (CBH) Schema Generation and ∆Hf Calculation</p>
+  <a href="https://repository.library.brown.edu/studio/item/bdr:t638etqc/">
+    <img align="center" alt="Automated CBH Scheme" src="https://github.com/kentoabeywardane/kentoabeywardane/blob/main/figures/CBHscheme_ex.png" width=40% height=40%>
+    <p align="center">$\texttt{autoCBH}$: Automated Connectivity-Based Hierarchy (CBH) Schema Generation and ∆Hf Calculation</p>
+  </a>
 </p>
 
 # 
