@@ -11,7 +11,7 @@ I also worked on non-equillibrium MD simulations to investigate diffusiophoresis
     - **CC**: MOLPRO and ORCA
   - **Molecular Dynamics** (openMM)
 
-- 📫 Reach me at: **kentoabeywardane@gmail.com**
+- 📫 Reach me at: **kento@mit.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
