@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Kento Abeywardane</h1>
-<h3 align="center">I'm a Chemical Engineering and Computing PhD student at MIT with an interest in using computational chemistry and machine learning to solve molecular-level problems for drug discovery!</h3>
+<h3 align="center">I'm a Chemical Engineering and Computing PhD student at MIT with an interest in using computational chemistry and machine learning to aid drug discovery and design! I am currently in the <a href="https://coley.mit.edu/">Coley Research Group</a> working on structure-based and synthesis-constrained drug design. </h3>
 
-<h6 align="justify"> I graduated with a Master's in Data-Enabled Computational Engineering and Sciences (DECES) and a Bachelor's in Chemical Engineering at Brown University. My master's thesis was a culmination of my undergraduate DFT and coupled cluster work with PFOA and GenX compounds where I developed a package ($\textsc{autoCBH}$) that automatically computes accurate heats of formation for large molecules by utilizing the error-cancelling connectivity-based hierarchy (CBH) method.
+<h6 align="justify"> Previously, I graduated with a Master's in Data-Enabled Computational Engineering and Sciences (DECES) and a Bachelor's in Chemical Engineering at Brown University. My master's thesis was a culmination of my undergraduate DFT and coupled cluster work with PFOA and GenX compounds where I developed a package ($\texttt{autoCBH}$) that automatically computes accurate heats of formation for large molecules by utilizing the error-cancelling connectivity-based hierarchy (CBH) method.
 I also worked on non-equillibrium MD simulations to investigate diffusiophoresis of proteins and how that may impact transport, stability, and function. I plan to begin working on indpendent projects that focus on utilizing deep learning for drug design applications.</h6>
 
 - 🌱 I’m currently learning:
