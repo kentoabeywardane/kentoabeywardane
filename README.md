@@ -1,21 +1,21 @@
 <h1 align="center">👋 Hi, I'm Kento Abeywardane</h1>
 <h3 align="center">I'm a Chemical Engineering and Computing PhD student at MIT with an interest in using computational chemistry and machine learning to aid drug discovery and design! I am currently in the <a href="https://coley.mit.edu/">Coley Research Group</a> working on structure-based and synthesis-constrained drug design. </h3>
 
-<h6 align="justify"> Previously, I graduated with a Master's in Data-Enabled Computational Engineering and Sciences (DECES) and a Bachelor's in Chemical Engineering at Brown University. My master's thesis was a culmination of my undergraduate DFT and coupled cluster work with PFOA and GenX compounds where I developed a package ($\texttt{autoCBH}$) that automatically computes accurate heats of formation for large molecules by utilizing the error-cancelling connectivity-based hierarchy (CBH) method.
-I also worked on non-equillibrium MD simulations to investigate diffusiophoresis of proteins and how that may impact transport, stability, and function. I plan to begin working on indpendent projects that focus on utilizing deep learning for drug design applications.</h6>
+<h6 align="justify"> Previously, I graduated with a Master's in Data-Enabled Computational Engineering and Sciences (DECES) and a Bachelor's in Chemical Engineering at Brown University where I worked in the <a href="https://www.brown.edu/Departments/Engineering/Labs/Goldsmith/index.html">Goldsmith Lab for Chemical Kinetics</a>. 
+My master's thesis was a culmination of my undergraduate DFT and coupled cluster work with PFOA and GenX compounds where I developed a package ($\texttt{autoCBH}$) that automatically computes accurate heats of formation for large molecules by utilizing the error-cancelling connectivity-based hierarchy (CBH) method.
+In the <a href="https://sites.brown.edu/aultlab/">Ault Fluids Lab</a> I worked on non-equillibrium MD simulations to investigate diffusiophoresis of proteins and how that may impact transport, stability, and function. </h6>
 
-- 🌱 I’m currently learning:
-  - **Deep Learning**
+- 🌱 My technical interests:
+  - **Graph Neural Networks**
   - **Quantum Chemistry Software** 
-    - **DFT**: Gaussian
-    - **CC**: MOLPRO and ORCA
-  - **Molecular Dynamics** (openMM)
+  - **Molecular Dynamics and Mechanics**
 
 - 📫 Reach me at: **kento@mit.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kentoabeywardane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kentoabeywardane" height="30" width="40" /></a>
+<a href="https://twitter.com/kentoresearch" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1024px-Logo_of_Twitter.svg.png?20220821125553" alt="Kento Twitter" height="30" width="40" /></a>
 </p>
 
 ---
