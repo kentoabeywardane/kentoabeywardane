@@ -23,7 +23,7 @@ In the <a href="https://sites.brown.edu/aultlab/">Ault Fluids Lab</a> I worked o
 ### Here are some projects that I've worked on:
 
 <p align="center">
-  <a href="https://github.com/kentoabeywardane/autoCBH">
+  <a href="https://github.com/franklingoldsmith/autocbh">
     <img align="center" alt="Automated CBH Scheme" src="https://github.com/kentoabeywardane/kentoabeywardane/blob/main/figures/CBHscheme_ex.png" width=40% height=40%>
     <p align="center">$\texttt{autoCBH}$: Automated Connectivity-Based Hierarchy (CBH) Schema Generation and ∆Hf Calculation</p>
   </a>
