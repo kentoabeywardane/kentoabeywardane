@@ -6,7 +6,7 @@ My master's thesis was a culmination of my undergraduate DFT and coupled cluster
 In the <a href="https://sites.brown.edu/aultlab/">Ault Fluids Lab</a> I worked on non-equillibrium MD simulations to investigate diffusiophoresis of proteins and how that may impact transport, stability, and function. </h6>
 
 - 🌱 My technical interests:
-  - **Graph Neural Networks**
+  - **Deep Learning with a focus in 3D and equivariance**
   - **Quantum Chemistry Software** 
   - **Molecular Dynamics and Mechanics**
 
