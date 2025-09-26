@@ -1,13 +1,8 @@
 <h1 align="center">👋 Hi, I'm Kento Abeywardane</h1>
 
-<h6 align="justify"> I'm a Chemical Engineering and Computing PhD student at MIT currently in the <a href="https://coley.mit.edu/">Coley Research Group</a> working on 3D generative drug design. Previously, I graduated with a Master's in Data-Enabled Computational Engineering and Sciences (DECES) and a Bachelor's in Chemical Engineering at Brown University where I worked in the <a href="https://www.brown.edu/Departments/Engineering/Labs/Goldsmith/index.html">Goldsmith Lab for Chemical Kinetics</a>. 
+<h6 align="justify"> I'm a Chemical Engineering and Computation PhD student at MIT currently in the <a href="https://coley.mit.edu/">Coley Research Group</a> working on 3D generative drug design. Previously, I graduated with a Master's in Data-Enabled Computational Engineering and Sciences (DECES) and a Bachelor's in Chemical Engineering at Brown University where I worked in the <a href="https://www.brown.edu/Departments/Engineering/Labs/Goldsmith/index.html">Goldsmith Lab for Chemical Kinetics</a>. 
 My master's thesis was a culmination of my undergraduate DFT and coupled cluster work with PFOA and GenX compounds where I developed a package ($\texttt{autoCBH}$) that automatically computes accurate heats of formation for large molecules by utilizing the error-cancelling connectivity-based hierarchy (CBH) method.
 In the <a href="https://sites.brown.edu/aultlab/">Ault Fluids Lab</a> I worked on non-equillibrium MD simulations to investigate diffusiophoresis of proteins and how that may impact transport, stability, and function. </h6>
-
-- 🌱 My technical interests:
-  - **Deep Learning with a focus in 3D and equivariance**
-  - **Quantum Chemistry Software** 
-  - **Molecular Dynamics and Mechanics**
 
 - 📫 Reach me at: **kento@mit.edu**
 
