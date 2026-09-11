@@ -9,12 +9,22 @@ In the <a href="https://sites.brown.edu/aultlab/">Ault Fluids Lab</a> I worked o
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kentoabeywardane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kentoabeywardane" height="30" width="40" /></a>
-<a href="https://twitter.com/kentoresearch" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1024px-Logo_of_Twitter.svg.png?20220821125553" alt="Kento Twitter" height="30" width="40" /></a>
+<a href="https://x.com/kabeywar" target="blank"><img align="center" src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="Kento Twitter" height="30" width="40" /></a>
 </p>
 
 ---
 
 ### Here are some projects that I've worked on:
+# 
+
+
+<p align="center">
+  <a href="https://github.com/coleygroup/shepherd2">
+    <img align="center" alt="ShEPhERD-2" src="https://github.com/coleygroup/shepherd2/blob/main/docs/images/shepherd2_summary.png" width=70% height=70%>
+    <p align="center">Interaction Profiles as a Universal Language for Generative Molecular Design with ShEPhERD-2</p>
+  </a>
+</p>
+
 # 
 
 
